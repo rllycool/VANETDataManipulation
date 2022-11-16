@@ -1,5 +1,5 @@
-Project 1: **VANET Data Manipulation**
+**VANET Data Manipulation**
 
-Project description pdf is on Canvas. Code submission is on Zybook and Github.
-
-*Plagiarism* will not be tolerated under any circumstances. Participating students will be penalized depending on the degree of plagiarism. It includes **“No-code”** sharing among the students. It can lead to academic misconduct reporting to the authority if identical code is found among the students.
+Read in a file "vanetp1data.txt" containing multiple columns of data
+Parse the file and run various calculations.
+From the data read in, with equivalent hamming distances. In information theory, the Hamming distance between two strings of equal length is the number of positions at which the corresponding symbols are different. (See sample output)
